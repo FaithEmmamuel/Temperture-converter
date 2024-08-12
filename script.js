@@ -43,8 +43,3 @@ kel.addEventListener('input', function(){
     cel.value = c;
     fah.value = f;
 });
-
-
-let apples = '5';
-let oranges = '7';
-alert(oranges % apples);
